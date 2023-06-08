@@ -20,8 +20,8 @@ This repository contains the material and information associated with our poster
 
 ## Meeting material
 
-- *SODA-poster-SPARC2-meeting-2023.pdf*: pdf of our poster
-- *SODA-presentation-SPARC2-meeting-2023.pdf*: slides of our talk
+- [SODA-poster-SPARC2-meeting-2023.pdf](https://github.com/fairdataihub/SODA-SPARC-Phase2-PI-Meeting/blob/main/SODA-poster-SPARC2-meeting-2023.pdf): pdf of our poster
+- [SODA-presentation-SPARC2-meeting-2023.pdf](): slides of our talk
 
 ## Resources
 
