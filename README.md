@@ -12,10 +12,10 @@ This repository contains the material and information associated with our poster
 
 ## Schedule
 
-| Type            | Time             | Authors                          | Session / Location                                              | Details |
+| Type            | Date & Time             | Authors                          | Session / Location                                              | Details |
 | --------------- | -----------------|--------------------------------- |------------------------------------------------------ |------------------- |
-| Poster          | 2:30 PM - 4:00 PM ET  |Bhavesh Patel (presenter) and the SODA team | Poster session / NIH Natcher | https://meetings.sparc.science/agenda |
-| Short talk      | 9:05 AM – 9:30 AM ET |Bhavesh Patel (presenter) and the SODA team | Introduction to SODA / NIH Natcher (Main Room) | https://meetings.sparc.science/agenda |
+| Poster          | Tuesday 06/13, 2:30 PM - 4:00 PM ET and Wednesday 06/14, 12:25 PM - 13:15 PM ET|Bhavesh Patel (presenter) and the SODA team | Poster session / NIH Natcher | https://meetings.sparc.science/agenda |
+| Short talk      |  Wednesday 06/14, 9:05 AM – 9:30 AM ET |Bhavesh Patel (presenter) and the SODA team | Introduction to SODA / NIH Natcher (Main Room) | https://meetings.sparc.science/agenda |
 
 
 ## Meeting material
