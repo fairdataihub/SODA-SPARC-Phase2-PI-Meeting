@@ -8,7 +8,7 @@
 
 ## About
 
-This repository contains the material and information associated with our poster presentation and talk at the SPARC Phase 2 PI Meeting 2023. We are presenting about SODA, the tool our team has developed to simplify the curation and sharing of neuromodulation, neurophysiology, and related data according to the SPARC guidelines that are aimed at making data FAIR (Findable, Accessible, Interoperable, Reusable). SODA is designed to help SPARC supported researchers as well as other researchers desiring to make their data FAIR as per the SPARC data curation and sharing guidelines. More information about SODA is available in [SODA's documentation](https://docs.sodaforsparc.io/docs/intro). Details about the SPARC Phase 2 PI Meeting are available on the [meeting website](https://meetings.sparc.science/). 
+This repository contains the material and information associated with our poster presentation and talk at the SPARC Phase 2 PI Meeting 2023. We are presenting about SODA, the tool our team has developed to simplify the curation and sharing of neuromodulation, neurophysiology, and related data according to the SPARC guidelines that are aimed at making data FAIR (Findable, Accessible, Interoperable, Reusable). SODA is designed to help SPARC-supported researchers as well as other researchers desiring to make their data FAIR as per the SPARC data curation and sharing guidelines. More information about SODA is available in [SODA's documentation](https://docs.sodaforsparc.io/docs/intro). Details about the SPARC Phase 2 PI Meeting are available on the [meeting website](https://meetings.sparc.science/). 
 
 ## Schedule
 
@@ -20,8 +20,8 @@ This repository contains the material and information associated with our poster
 
 ## Meeting material
 
-- [SODA-poster-SPARC2-meeting-2023.pdf](https://github.com/fairdataihub/SODA-SPARC-Phase2-PI-Meeting/blob/main/SODA-poster-SPARC2-meeting-2023.pdf): pdf of our poster
-- [SODA-presentation-SPARC2-meeting-2023.pdf](): slides of our talk
+- [SODA-poster-SPARC2-meeting-2023.pdf](SODA-poster-SPARC2-meeting-2023.pdf): pdf of our poster
+- [SODA-presentation-SPARC2-meeting-2023.pdf](SODA-presentation-SPARC2-meeting-2023.pdf): slides of our talk
 
 ## Resources
 
